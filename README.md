@@ -1,4 +1,4 @@
-A simple React Redux app for searching for books and find out details. 
+A simple React Redux app
 
 To run the app 
 
